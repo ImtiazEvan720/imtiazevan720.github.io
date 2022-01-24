@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hatil Virtual Store
-subtitle: Each post also has a subtitle
+subtitle: HATIL Complex Ltd. , Bangladesh
 tags:
   - test
 comments: false
