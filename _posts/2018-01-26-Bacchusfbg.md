@@ -2,7 +2,6 @@
 layout: post
 title: Bacchusfbg
 subtitle: Render Vision Europe AB.
-cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/BacchusFbg_thumb.png
 share-img: /assets/img/BacchusFbg_thumb.png
 tags:
