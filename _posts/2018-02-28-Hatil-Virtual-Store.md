@@ -10,11 +10,11 @@ tags:
 comments: false
 published: true
 thumbnail-img: /assets/img/Hatil-Furniture-Thumb.jpg
+cover-img: /assets/img/hvs.jpeg
 ---
 
 Hatil, Bangladesh’s largest furniture brand was facing a challenge with increasing rent costs of retail spaces. Especially in city centers, where the majority of Hatil’s customers prefer shopping, Hatil was not being able to display their full range of furniture. At any given point Hatil has an inventory close to 1000. And if you add fabric and accessories varieties, then there is literally thousands of options for customers.
 
-![Openhaus](/assets/img/hvs.jpeg)
 
 **My Role :** _Core Developer_ 
 
