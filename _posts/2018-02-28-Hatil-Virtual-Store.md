@@ -3,7 +3,10 @@ layout: post
 title: Hatil Virtual Store
 subtitle: 'HATIL Complex Ltd. , Bangladesh'
 tags:
-  - test
+  - Unity3d
+  - 'C#'
+  - Oculus Rift
+  - VR
 comments: false
 published: true
 thumbnail-img: /assets/img/Hatil-Furniture-Thumb.jpg
