@@ -12,7 +12,7 @@ tags:
 published: true
 ---
 
-Shanley Homes is an Augmented Reality Application developed for Heads Above the Cloud, UK as marketing tool to attract potential home buyers.
+Shanley Homes is an Augmented Reality Application developed for Heads Above the Cloud, UK as a marketing tool to attract potential home buyers.
 
 ![Shanley](/assets/img/shanley_homes_1.jpeg) ![Shanley](/assets/img/shanley_homes_2.jpeg) ![Shanley](/assets/img/shanley_homes_3.jpeg)
 
