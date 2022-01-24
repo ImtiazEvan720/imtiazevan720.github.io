@@ -2,17 +2,24 @@
 layout: post
 title: Mindun City
 subtitle: Render Vision Europe AB.
-cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/mindun_thumb.png
 share-img: /assets/img/path.jpg
 tags:
-  - books
-  - test
+  - Unity3d
+  - AR
+  - iOS
+  - Android
 published: true
 ---
 
-Render Vision Europe AB has developed this app as a marketing platform for the housing project Bacchus, - a new district in Falkenberg, Sweden.
+Transformar Sweden AB has developed this app as a marketing platform for Mindun City, a residential and commercial project in China.   The project consists of 8 towers with both commercial and residential spaces. This app is developed to showcase the residential section only.
 
-Use our app to find your new home and get ocean view for breakfast, lunch and dinner!
 
-Our app uses 3D and AR – Augmented Reality - to let you walk in the area, look inside the apartments and enjoy the views. See the film that shows the unique pier where Bacchus is situated and get a feeling of architecture and the insides of the apartments.
+**My Role :** _Lead Developer_ 
+
+**Tech Stack :** _Unity3d,Vuforia AR_
+
+**Platform :** _iOS,Android_
+
+
+[mindun1](/assets/img/mindun_1.jpg) [mindun2](/assets/img/mindun_2.jpg) [mindun3](/assets/img/mindun_3.jpg)
