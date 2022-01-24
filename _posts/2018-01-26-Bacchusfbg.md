@@ -4,10 +4,12 @@ title: Bacchusfbg
 subtitle: Render Vision Europe AB.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/BacchusFbg_thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/BacchusFbg_thumb.png
 tags:
-  - books
-  - test
+  - Unity3d
+  - AR
+  - iOS
+  - Android
 published: true
 ---
 
@@ -28,4 +30,3 @@ Bacchusfbg uses 3D and AR – Augmented Reality - to let you walk in the area, l
 [Apple AppStore](https://apps.apple.com/tc/app/bacchusfbg/id1204280567)
 
 [Google Playstore](https://play.google.com/store/apps/details?id=com.rendervision.bacchus&hl=en_US&gl=US)
-
