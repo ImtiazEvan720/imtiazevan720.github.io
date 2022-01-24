@@ -26,15 +26,15 @@ Hatil, Bangladesh’s largest furniture brand was facing a challenge with increa
 
 Using Unity3d [**_Hatil Virtual Store_**](https://auleek.com/revolutionizing-furniture-retail-using-virtual-reality/) was designed and developed as ‘Virtual Store’ solution, which was essentially a store inside a store (image below). Hatil started setting up large screens (through projectors, TV screens etc) inside of their stores. On these screens, customers can browse through Hatil’s entire range of furniture with all its variations in full interactive 3D and virtual reality.
 
-![Hvs_Store_1](/assets/img/hatil_Article.png)
+![Hvs_Store_1](/assets/img/hatil_Article.jpg)
 
 Customers have the ability to change fabric and material combination of a furniture. They can browse through the full collection of Hatil in highly detailed 3D. Customers also have the opportunity to see a furniture up close with Virtual Reality.
 
-![Hvs_Store_2](/assets/img/hatil_Article_2.png)
+![Hvs_Store_2](/assets/img/hatil_Article_2.jpg)
 
 Quite often, customers come to Hatil stores with their room/apartment layouts, looking for the best suggestions for their interiors. So we built a ‘Room Planner’ tool where sales agents can quickly replicate the customers’ rooms and pick the best furniture combination for it. The ‘Room Planner’ has the ability to create different types and sizes of rooms, customise walls, floors, put in doors, windows, accessories etc. Once created, the room is also available to view in virtual reality.
 
-![Hvs_Store_3](/assets/img/hatil_Article_3.png)
+![Hvs_Store_3](/assets/img/hatil_Article_3.jpg)
 
 This software ecosystem also contains an easy-to-use backend for Hatil designers. They can use the ‘Designer Toolkit’ to select fabric combinations for their furniture. They can also design the furniture sets that customers can see inside of the ‘Gallery’ space in the Virtual Store. 
 
