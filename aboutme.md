@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Journey as a Software Developer
 published: true
 ---
 
 
 My name is **Imtiaz Evan**.
-I've completed my bachelors in computer science and engineering from Dhaka University,Bangladesh.As of now i'm working as a software developer in Bangladesh.
+I've completed my bachelors in computer science and engineering from University of Dhaka,Bangladesh.As of now i'm working as a software developer in Bangladesh.
 
 Throughout my time as a software developer i've worked on different tech stacks such as mobile application development(**iOS**/**Android**),Web development(**php**/**nodejs**).
 
