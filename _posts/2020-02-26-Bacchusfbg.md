@@ -3,9 +3,12 @@ layout: post
 title: Bacchusfbg
 subtitle: Render Vision Europe AB.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/BacchusFbg_thumb.png.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags:
+  - books
+  - test
+published: true
 ---
 
 Render Vision Europe AB has developed this app as a marketing platform for the housing project Bacchus, - a new district in Falkenberg, Sweden.
