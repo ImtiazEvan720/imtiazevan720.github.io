@@ -22,4 +22,4 @@ Transformar Sweden AB has developed this app as a marketing platform for Mindun 
 **Platform :** _iOS,Android_
 
 
-[mindun1](/assets/img/mindun_1.jpg) [mindun2](/assets/img/mindun_2.jpg) [mindun3](/assets/img/mindun_3.jpg)
+![mindun1](/assets/img/mindun_1.jpg) ![mindun2](/assets/img/mindun_2.jpg) ![mindun3](/assets/img/mindun_3.jpg)
