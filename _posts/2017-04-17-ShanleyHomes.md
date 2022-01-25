@@ -5,7 +5,7 @@ subtitle: Heads Above the Cloud, UK
 thumbnail-img: /assets/img/shanley_thumb.png
 share-img: /assets/img/shanley_thumb.png
 tags:
-  - Unity
+  - Unity3d
   - AR
   - iOS
   - Android
