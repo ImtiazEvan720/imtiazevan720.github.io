@@ -12,6 +12,8 @@ tags:
 published: true
 ---
 
+![bacchus_fbg](https://play-lh.googleusercontent.com/2NEohNzTnlbRSWqdwTLyE3NCHibsA8YWyNsk-y4E19plPbr9MneyqDoQirnfVr0W7XGY=w720-h310)
+
 Render Vision Europe AB has developed this app as a marketing platform for the housing project Bacchus, - a new district in Falkenberg, Sweden.
 
 **My Role :** _Core Developer_ 
