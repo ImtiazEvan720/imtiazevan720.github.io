@@ -12,8 +12,6 @@ tags:
 published: true
 ---
 
-![bacchus_fbg](https://play-lh.googleusercontent.com/2NEohNzTnlbRSWqdwTLyE3NCHibsA8YWyNsk-y4E19plPbr9MneyqDoQirnfVr0W7XGY=w720-h310)
-
 Render Vision Europe AB has developed this app as a marketing platform for the housing project Bacchus, - a new district in Falkenberg, Sweden.
 
 **My Role :** _Core Developer_ 
@@ -25,3 +23,6 @@ Render Vision Europe AB has developed this app as a marketing platform for the h
 **Project Description :**
 
 Bacchusfbg uses 3D and AR – Augmented Reality - to let you walk in the area, look inside the apartments and enjoy the views. See the film that shows the unique pier where Bacchus is situated and get a feeling of architecture and the insides of the apartments.
+
+
+![bacchus_fbg](https://play-lh.googleusercontent.com/2NEohNzTnlbRSWqdwTLyE3NCHibsA8YWyNsk-y4E19plPbr9MneyqDoQirnfVr0W7XGY=w720-h310)
