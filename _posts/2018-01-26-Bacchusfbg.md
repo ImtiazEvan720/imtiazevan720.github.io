@@ -23,7 +23,3 @@ Render Vision Europe AB has developed this app as a marketing platform for the h
 **Project Description :**
 
 Bacchusfbg uses 3D and AR – Augmented Reality - to let you walk in the area, look inside the apartments and enjoy the views. See the film that shows the unique pier where Bacchus is situated and get a feeling of architecture and the insides of the apartments.
-
-[Apple AppStore](https://apps.apple.com/tc/app/bacchusfbg/id1204280567)
-
-[Google Playstore](https://play.google.com/store/apps/details?id=com.rendervision.bacchus&hl=en_US&gl=US)
