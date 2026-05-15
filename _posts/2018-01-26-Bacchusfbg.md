@@ -20,7 +20,7 @@ Render Vision Europe AB has developed this app as a marketing platform for the h
 
 **Platform :** _iOS,Android_
 
-*## Project Description
+## Project Description
 
 Bacchusfbg was an interactive **3D and augmented reality** real estate visualization application that allowed users to explore the Bacchus property virtually. Users could walk around the area, look inside apartments, view the surrounding environment, and experience the architecture and interior spaces before visiting the site physically.
 
