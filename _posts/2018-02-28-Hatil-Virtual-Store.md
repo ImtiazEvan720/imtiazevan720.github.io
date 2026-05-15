@@ -18,9 +18,9 @@ Hatil, Bangladesh’s largest furniture brand was facing a challenge with increa
 
 **My Role :** _Core Developer_ 
 
-**Tech Stack :** _C#,Unity3d,PHP/Laravel_ 
+**Tech Stack :** _C#, Unity3d, PHP/Laravel_ 
 
-**Platform :**_Windows,Oculus Rift,HTC Vive_
+**Platform :**_Windows, Oculus Rift, HTC Vive_
 
 **Project Description :**
 
