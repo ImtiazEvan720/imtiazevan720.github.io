@@ -16,8 +16,8 @@ Shanley Homes is an Augmented Reality Application developed for Heads Above the 
 
 **My Role :** _Lead Developer_ 
 
-**Tech Stack :** _Unity3d,Vuforia AR_
+**Tech Stack :** _Unity3d, Vuforia AR_
 
-**Platform :** _iOS,Android_
+**Platform :** _iOS, Android_
 
 ![Shanley](/assets/img/shanley_homes_1.jpeg) ![Shanley](/assets/img/shanley_homes_2.jpeg) ![Shanley](/assets/img/shanley_homes_3.jpeg)
