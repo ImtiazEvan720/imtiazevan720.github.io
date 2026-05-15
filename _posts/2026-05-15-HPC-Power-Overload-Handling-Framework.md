@@ -17,7 +17,7 @@ published: true
 
 **Tech Stack :** _Python, Bash/Shell, Slurm, Socket.IO_ 
 
-**Platform :**_HPC Cluser on Linux_
+**Platform :** _HPC Cluser on Linux_
 
 Developed a Python-based framework for detecting and mitigating power overload events in HPC clusters. This work was completed as part of my Graduate Research Assistant role at the University of Texas at Arlington, where I extended the main idea from a previous conference paper into a practical implementation that could run on a live HPC cluster.
 
