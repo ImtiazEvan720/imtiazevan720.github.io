@@ -6,11 +6,8 @@ published: true
 ---
 
 
-My name is **Imtiaz Evan**.
-I've completed my bachelors in Computer Science and Engineering from University of Dhaka,Bangladesh.As of now i'm working as a software developer in Bangladesh.
-
-Throughout my time as a software developer i've worked on different tech stacks such as mobile application development(**iOS**/**Android**),Web development(**PHP**/**Nodejs**).
-
-For the past 5 years i've dedicated myself in developing realtime 3D software solutions using game engines(**Unreal Engine 4**/**Unity3d**).I also have hands-on work experience on mediums like augmented reality,virtual reality.My key area of interests are Computer Graphics,Computer Vision and AI.
-
-When i'm not working i spend my time with my family. I'm also an avid fan of sports and video games.
+My name is Imtiaz Evan. I am currently pursuing a Master’s degree in Computer Science at the University of Texas at Arlington after spending 8+ years working as a software developer in Bangladesh.
+I completed my Bachelor’s degree in Computer Science and Engineering from the University of Dhaka, Bangladesh. Throughout my career, I have worked across different areas of software development, including mobile application development (iOS/Android), web development (PHP/Node.js), backend systems, cloud services, and real-time 3D applications.
+A major part of my professional work has been focused on developing interactive 3D software solutions using game engines such as Unreal Engine 4 and Unity3D. I have also worked with augmented reality, virtual reality, digital twins, cloud streaming, and runtime content delivery systems. Alongside my industry experience, I have worked on small-scale computer vision projects and graduate research involving HPC systems, distributed control frameworks, power telemetry, and workload management.
+My experience comes strongly from startup culture, where teams are small, expectations are high, and every opportunity has to count. That environment taught me to take ownership, move quickly, learn whatever is necessary, and contribute wherever the project needs me most. I care deeply about building high-quality software and improving things until they are done well, but I also understand when to be practical, make decisions under constraints, and deliver working solutions.
+My key areas of interest include Computer Graphics, Computer Vision, HPC Systems, Software Engineering. When I am not working, I enjoy spending time with my family, following sports, and playing video games.
