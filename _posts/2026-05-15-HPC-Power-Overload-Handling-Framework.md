@@ -13,13 +13,14 @@ tags:
 published: true
 ---
 
+
+Developed a Python-based framework for detecting and mitigating power overload events in HPC clusters. This work was completed as part of my Graduate Research Assistant role at the University of Texas at Arlington, where I extended the main idea from a previous conference paper into a practical implementation that could run on a live HPC cluster.
+
 **My Role :** _Core Developer_ 
 
 **Tech Stack :** _Python, Bash/Shell, Slurm, Socket.IO_ 
 
 **Platform :** _HPC Cluser on Linux_
-
-Developed a Python-based framework for detecting and mitigating power overload events in HPC clusters. This work was completed as part of my Graduate Research Assistant role at the University of Texas at Arlington, where I extended the main idea from a previous conference paper into a practical implementation that could run on a live HPC cluster.
 
 The framework integrates with the Slurm job scheduler to monitor active workloads and collects real-time power telemetry from an external PDU. When a power overload is detected, the system applies CPU-frequency scaling across the cluster to reduce power consumption and later restores normal frequency settings once the overload condition is resolved.
 
