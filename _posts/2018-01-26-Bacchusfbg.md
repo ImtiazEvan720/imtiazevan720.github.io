@@ -4,6 +4,8 @@ title: Bacchusfbg
 subtitle: Render Vision Europe AB.
 thumbnail-img: /assets/img/BacchusFbg_thumb.png
 share-img: /assets/img/BacchusFbg_thumb.png
+categories:
+  - game-xr
 tags:
   - Unity3d
   - AR

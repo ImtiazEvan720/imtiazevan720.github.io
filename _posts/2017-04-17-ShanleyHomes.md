@@ -4,6 +4,8 @@ title: Shanley Homes
 subtitle: Heads Above the Cloud, UK
 thumbnail-img: /assets/img/shanley_thumb.png
 share-img: /assets/img/shanley_thumb.png
+categories:
+  - game-xr
 tags:
   - Unity3d
   - AR

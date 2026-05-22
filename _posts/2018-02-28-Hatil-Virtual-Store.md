@@ -2,6 +2,8 @@
 layout: post
 title: Hatil Virtual Store
 subtitle: 'HATIL Complex Ltd. , Bangladesh'
+categories:
+  - game-xr
 tags:
   - Unity3d
   - 'C#'
