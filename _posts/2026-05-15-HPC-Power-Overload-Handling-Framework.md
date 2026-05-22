@@ -2,6 +2,8 @@
 layout: post
 title: HPC Power Overload Handling Framework
 subtitle: Graduate Research, University of Texas at Arlington
+categories:
+  - systems
 tags:
   - Python
   - Socket.IO
