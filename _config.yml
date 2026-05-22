@@ -14,7 +14,7 @@ author: Imtiaz Evan
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "all projects"
+  Projects: "projects"
   # Full-Stack: "fullstack"
   # Game/XR: "game-xr"
   # Systems: "systems"
