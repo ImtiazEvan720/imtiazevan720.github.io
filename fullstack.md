@@ -34,8 +34,6 @@ permalink: /fullstack/
           {% endif %}
 
           <div style="padding: 1.25rem;">
-            <div style="font-size: 1.8rem; margin-bottom: 0.5rem;">💻</div>
-
             <h3 style="margin-top: 0;">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
