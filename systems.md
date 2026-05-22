@@ -29,7 +29,7 @@ permalink: /systems/
             </a>
           {% else %}
             <div style="height: 210px; display:flex; align-items:center; justify-content:center; background:#f5f5f5; font-size: 3rem;">
-              🎮
+              ⚙️
             </div>
           {% endif %}
 
