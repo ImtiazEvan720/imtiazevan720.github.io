@@ -4,6 +4,8 @@ title: Mindun City
 subtitle: Render Vision Europe AB.
 thumbnail-img: /assets/img/mindun_thumb.png
 share-img: /assets/img/path.jpg
+categories:
+  - game-xr
 tags:
   - Unity3d
   - AR
