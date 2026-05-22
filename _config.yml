@@ -14,6 +14,10 @@ author: Imtiaz Evan
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
+  Full-Stack: "fullstack"
+  Game/XR: "game-xr"
+  Systems: "systems"
   #Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/" 
