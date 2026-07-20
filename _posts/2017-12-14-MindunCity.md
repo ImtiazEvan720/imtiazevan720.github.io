@@ -11,7 +11,7 @@ tags:
   - AR
   - iOS
   - Android
-published: true
+published: false
 ---
 
 Transformar Sweden AB has developed this app as a marketing platform for Mindun City, a residential and commercial project in China.   The project consists of 8 towers with both commercial and residential spaces. This app is developed to showcase the residential section only.
