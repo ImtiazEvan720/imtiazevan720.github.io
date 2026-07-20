@@ -11,7 +11,7 @@ tags:
   - AR
   - iOS
   - Android
-published: true
+published: false
 ---
 
 Shanley Homes is an Augmented Reality Application developed for Heads Above the Cloud, UK as a marketing tool to attract potential home buyers.
