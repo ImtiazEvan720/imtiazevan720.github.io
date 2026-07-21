@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECS-Based C++ Game Engine Framework
-subtitle: Personal C++ Systems and Game Engine Project
+subtitle: Personal Project
 categories:
   - game-xr
 tags:
