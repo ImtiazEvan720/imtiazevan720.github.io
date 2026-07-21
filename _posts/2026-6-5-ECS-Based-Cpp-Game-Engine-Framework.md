@@ -21,7 +21,7 @@ Developed a modular game engine framework in C++ using an **Entity Component Sys
 
 **Tech Stack :** *C++, SFML, SDL3, ImGui, CMake*
 
-**Platform :** *Cross-Platform Desktop*
+**Platform :** *Cross-Platform(Windows,Mac,Linux)*
 
 <a href="https://github.com/ImtiazEvan720/iEngineV2"
    target="_blank"
@@ -37,4 +37,4 @@ The framework uses design patterns including **Factory** for object creation, **
 
 External libraries are used mainly for platform abstraction and development tools, while the core engine architecture, resource management, and system interactions are implemented in modern C++ using RAII, smart pointers, and clear ownership boundaries.
 
-The project also includes ImGui-based tools for inspecting entities, editing components, managing assets, and previewing animations.
+The project also includes ImGui-based tools for inspecting entities, editing components, managing assets, and previewing animations, along with Lua scripting support and cross-platform build configurations for Windows, Linux, macOS, Android, iOS, and WebAssembly.
