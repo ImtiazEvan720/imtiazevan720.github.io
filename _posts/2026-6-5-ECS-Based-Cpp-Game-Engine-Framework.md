@@ -11,7 +11,8 @@ tags:
   - SDL3
   - ImGui
   - Design Patterns
-  published: true
+comments: false
+published: true
 ---
 
 Developed a modular game engine framework in C++ using an **Entity Component System**, or **ECS**, architecture. The project focuses on scalable engine design, reusable systems, and maintainable C++ code.
