@@ -30,6 +30,7 @@ Developed a modular game engine framework in C++ using an **Entity Component Sys
   View Project on GitHub
 </a>
 
+![ECS Engine Editor](/assets/img/ecs_game_engine_editor.webp)
 The ECS architecture separates entities, data components, and systems, allowing features such as rendering, input, animation, collision, and UI to remain independent and composable.
 
 The framework uses design patterns including **Factory** for object creation, **Observer** for event communication, **Command** for input and editor actions, and **Strategy** for interchangeable subsystem behavior.
