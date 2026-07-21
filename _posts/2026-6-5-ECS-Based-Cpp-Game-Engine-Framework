@@ -1,0 +1,35 @@
+---
+
+layout: post
+title: ECS-Based C++ Game Engine Framework
+subtitle: Personal C++ Systems and Game Engine Project
+categories:
+
+* systems
+* game-development
+  tags:
+* C++
+* ECS
+* SDL3
+* ImGui
+* Design Patterns
+* Game Engine
+  published: true
+
+---
+
+Developed a modular game engine framework in C++ using an **Entity Component System**, or **ECS**, architecture. The project focuses on scalable engine design, reusable systems, and maintainable C++ code.
+
+**My Role :** *Engine Developer*
+
+**Tech Stack :** *C++, SDL3, ImGui, CMake*
+
+**Platform :** *Cross-Platform Desktop*
+
+The ECS architecture separates entities, data components, and systems, allowing features such as rendering, input, animation, collision, and UI to remain independent and composable.
+
+The framework uses design patterns including **Factory** for object creation, **Observer** for event communication, **Command** for input and editor actions, and **Strategy** for interchangeable subsystem behavior.
+
+External libraries are used mainly for platform abstraction and development tools, while the core engine architecture, resource management, and system interactions are implemented in modern C++ using RAII, smart pointers, and clear ownership boundaries.
+
+The project also includes ImGui-based tools for inspecting entities, editing components, managing assets, and previewing animations.
