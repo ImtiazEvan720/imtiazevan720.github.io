@@ -19,9 +19,11 @@ Developed a modular game engine framework in C++ using an **Entity Component Sys
 
 **My Role :** *Engine Developer*
 
-**Tech Stack :** *C++, SDL3, ImGui, CMake*
+**Tech Stack :** *C++, SFML, SDL3, ImGui, CMake*
 
 **Platform :** *Cross-Platform Desktop*
+
+**GitHub Repository:** [View Source Code](https://github.com/ImtiazEvan720/iEngineV2)
 
 The ECS architecture separates entities, data components, and systems, allowing features such as rendering, input, animation, collision, and UI to remain independent and composable.
 
