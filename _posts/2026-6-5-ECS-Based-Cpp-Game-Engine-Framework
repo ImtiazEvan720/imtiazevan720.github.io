@@ -1,21 +1,17 @@
 ---
-
 layout: post
 title: ECS-Based C++ Game Engine Framework
 subtitle: Personal C++ Systems and Game Engine Project
 categories:
-
-* systems
-* game-development
-  tags:
-* C++
-* ECS
-* SDL3
-* ImGui
-* Design Patterns
-* Game Engine
+  - game-xr
+tags:
+  - game-development
+  - C++
+  - ECS
+  - SDL3
+  - ImGui
+  - Design Patterns
   published: true
-
 ---
 
 Developed a modular game engine framework in C++ using an **Entity Component System**, or **ECS**, architecture. The project focuses on scalable engine design, reusable systems, and maintainable C++ code.
