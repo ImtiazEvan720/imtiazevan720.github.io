@@ -15,7 +15,7 @@ comments: false
 published: true
 ---
 
-Developed a modular game engine framework in C++ using an **Entity Component System**, or **ECS**, architecture. The project focuses on scalable engine design, reusable systems, and maintainable C++ code.
+Developed a modular game engine framework in C++ conforming to the **Entity Component System** architecture. The project focuses on scalable engine design, reusable systems, and maintainable yet performant C++ code.
 
 **My Role :** *Engine Developer*
 
