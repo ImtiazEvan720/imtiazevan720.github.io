@@ -20,7 +20,7 @@ Developed a Python-based framework for detecting and mitigating power overload e
 
 **My Role :** _Core Developer_ 
 
-**Tech Stack :** _Python, Bash/Shell, Slurm, Socket.IO_ 
+**Tech Stack :** _Python, Bash/Shell, Slurm, Socket.IO_, OpenMP/MPI
 
 **Platform :** _HPC Cluser on Linux_
 
